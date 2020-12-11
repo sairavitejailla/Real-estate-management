@@ -1,0 +1,12 @@
+
+Firstname:name_your _entered
+lastname:----
+mobile no:---
+email:----
+
+details of house:house:5bhk
+cost:2.5crore
+sqft:2,200 sq ft
+type:independent
+locality:a nagar
+area:phagwara

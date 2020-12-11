@@ -1,0 +1,486 @@
+3
+3bhk
+20,000
+independent
+modaltown
+jalandhar
+3
+4bhk
+18,000
+independent
+modaltown
+jalandhar
+3
+2bhk
+16,000
+apartment
+modaltown
+jalandhar
+3
+3bhk
+20,000
+independent
+bypass road
+jalandhar
+3
+4bhk
+18,000
+independent
+bypass road
+jalandhar
+3
+2bhk
+16,000
+apartment
+bypass road
+jalandhar
+3
+3bhk
+20,000
+independent
+jalandhar cantt
+jalandhar
+3
+4bhk
+18,000
+independent
+jalandhar cantt
+jalandhar
+3
+15,000
+1,104 sq ft
+apartment
+jalandhar cantt
+jalandhar
+2
+3bhk
+14,000
+independent
+modaltown
+jalandhar
+2
+2bhk
+13,000
+apartment
+modaltown
+jalandhar
+2
+2bhk
+11,000
+independent
+modaltown
+jalandhar
+2
+3bhk
+14,000
+independent
+bypass road
+jalandhar
+2
+2bhk
+13,000
+apartment
+bypass road
+jalandhar
+2
+2bhk
+11,000
+independent
+bypass road
+jalandhar
+2
+3bhk
+14,000
+independent
+jalandhar cantt
+jalandhar
+2
+2bhk
+13,000
+apartment
+jalandhar cantt
+jalandhar
+2
+2bhk
+11,000
+independent
+jalandhar cantt
+jalandhar
+1
+3bhk
+9000
+independent
+modaltown
+jalandhar
+1
+2bhk
+7000
+apartment
+modaltown
+jalandhar
+1
+2bhk
+6000
+independent
+modaltown
+jalandhar
+1
+3bhk
+9000
+independent
+bypass road
+jalandhar
+1
+2bhk
+7000
+apartment
+bypass road
+jalandhar
+1
+2bhk
+6000
+independent
+bypass road
+jalandhar
+1
+3bhk
+9000
+independent
+jalandhar cantt
+jalandhar
+1
+2bhk
+7000
+apartment
+jalandhar cantt
+jalandhar
+1
+2bhk
+6000
+independent
+jalandhar cantt
+jalandhar
+3
+3bhk
+20,000
+independent
+a nagar
+phagwara
+3
+4bhk
+18,000
+independent
+a nagar
+phagwara
+3
+2bhk
+15,000
+apartment
+a nagar
+phagwara
+3
+3bhk
+20,000
+independent
+b nagar
+phagwara
+3
+18,000
+881 sq ft
+independent
+b nagar
+phagwara
+3
+2bhk
+15,000
+apartment
+b nagar
+phagwara
+3
+3bhk
+20,000
+independent
+c nagar
+phagwara
+3
+4bhk
+18,000
+independent
+c nagar
+phagwara
+3
+2bhk
+15,000
+apartment
+c nagar
+phagwara
+2
+3bhk
+14,000
+independent
+a nagar
+phagwara
+2
+2bhk
+13,000
+apartment
+a nagar
+phagwara
+2
+2bhk
+11,000
+independent
+a nagar
+phagwara
+2
+3bhk
+14,000
+independent
+b nagar
+phagwara
+2
+2bhk
+13,000
+apartment
+b nagar
+phagwara
+2
+2bhk
+11,000
+independent
+b nagar
+phagwara
+2
+3bhk
+14,000
+independent
+c nagar
+phagwara
+2
+2bhk
+13,000
+apartment
+c nagar
+phagwara
+2
+2bhk
+11,000
+independent
+c nagar
+phagwara
+1
+3bhk
+9000
+independent
+a nagar
+phagwara
+1
+2bhk
+7000
+apartment
+a nagar
+phagwara
+1
+2bhk
+6000
+independent
+a nagar
+phagwara
+1
+3bhk
+9000
+independent
+b nagar
+phagwara
+1
+2bhk
+7000
+apartment
+b nagar
+phagwara
+1
+2bhk
+6000
+independent
+b nagar
+phagwara
+1
+3bhk
+9000
+independent
+c nagar
+phagwara
+1
+2bhk
+7000
+apartment
+c nagar
+phagwara
+1
+2bhk
+6000
+independent
+c nagar
+phagwara
+3
+3bhk
+20,000
+independent
+d nagar
+ludhiana
+3
+4bhk
+18,000
+independent
+d nagar
+ludhiana
+3
+2bhk
+15,000
+apartment
+d nagar
+ludhiana
+3
+3bhk
+20,000
+independent
+e nagar
+ludhiana
+3
+4bhk
+18,000
+independent
+e nagar
+ludhiana
+3
+2bhk
+15,000
+apartment
+e nagar
+ludhiana
+3
+3bhk
+20,000
+independent
+f nagar
+ludhiana
+3
+4bhk
+18,000
+independent
+f nagar
+ludhiana
+3
+2bhk
+15,000
+apartment
+f nagar
+ludhiana
+2
+3bhk
+14,000
+independent
+d nagar
+ludhiana
+2
+2bhk
+13,000
+apartment
+d nagar
+ludhiana
+2
+2bhk
+11,000
+independent
+d nagar
+ludhiana
+2
+3bhk
+14,000
+independent
+e nagar
+ludhiana
+2
+2bhk
+13,000
+apartment
+e nagar
+ludhiana
+2
+2bhk
+11,000
+independent
+e nagar
+phagwara
+2
+3bhk
+14,000
+independent
+f nagar
+ludhiana
+2
+2bhk
+13,000
+apartment
+f nagar
+ludhiana
+2
+2bhk
+11,000
+independent
+f nagar
+ludhiana
+1
+3bhk
+9000
+independent
+d nagar
+ludhiana
+1
+2bhk
+7000
+apartment
+d nagar
+ludhiana
+1
+2bhk
+6000
+independent
+d nagar
+ludhiana
+1
+3bhk
+9000
+independent
+e nagar
+ludhiana
+1
+2bhk
+7000
+apartment
+e nagar
+ludhiana
+1
+2bhk
+6000
+independent
+e nagar
+ludhiana
+1
+3bhk
+9000
+independent
+f nagar
+ludhiana
+1
+2bhk
+7000
+apartment
+f nagar
+ludhiana
+1
+2bhk
+6000
+independent
+f nagar
+ludhiana

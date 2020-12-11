@@ -1,0 +1,112 @@
+5
+5bhk
+1.5crore
+2,200 sq ft
+independent
+modaltown
+jalandhar
+5
+4bhk
+2.5crore
+2,180 sq ft
+independent
+modaltown
+jalandhar
+5
+4bhk
+1crore
+1,900 sq ft
+independent
+modaltown
+jalandhar
+4
+3bhk
+78.5lacs
+981 sq ft
+independent
+modaltown
+jalandhar
+4
+4bhk
+89lacs
+1,280 sq ft
+apartment
+modaltown
+jalandhar
+3
+3bhk
+72.5lacs
+881 sq ft
+independent
+modaltown
+jalandhar
+3
+4bhk
+62.5lacs
+881 sq ft
+independent
+modaltown
+jalandhar
+3
+2bhk
+60lacs
+1,104 sq ft
+apartment
+modaltown
+jalandhar
+1
+2bhk
+22 lacs
+1,356 sq ft
+apartment
+bypass road
+jalandhar
+3
+4bhk
+72 lacs
+1,201 sq ft
+independent
+bypass road
+jalandhar
+2
+3bhk
+49.5 lacs
+900 sq ft
+independent
+modaltown
+jalandhar
+3
+4bhk
+60 lacs
+1,461 sq ft
+independent
+bypass road
+jalandhar
+5
+5bhk
+1.6 crore
+1,980 sq ft
+independent
+bypass road
+jalandhar
+1
+2bhk
+20lacs
+600 sq ft
+apartment
+jalandhar cantt
+jalandhar
+2
+2bhk
+32 lac
+1200 sq ft
+apartment
+jalandhar cantt
+jalandhar
+2
+2bhk
+35 lac
+1200 sq ft
+independent
+jalandhar cantt
+jalandhar

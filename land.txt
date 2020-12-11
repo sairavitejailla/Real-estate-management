@@ -1,0 +1,140 @@
+3
+4 acres
+2 crores
+near main road
+jalandhar
+3
+3 acres
+1.2 crores
+near railway station
+jalandhar
+3
+3 acres
+1 crores
+near main road
+jalandhar
+2
+2 acres
+90 lacs
+near by pass road
+jalandhar
+3
+1.2 acres
+80 lacs
+near railway station
+jalandhar
+2
+1 acres
+70 lacs
+near main road
+jalandhar
+2
+1 acres
+60 lacs
+near railway road
+jalandhar
+1
+.75 acres
+50 lacs
+near by pass road
+jalandhar
+1
+.5 acres
+45 lacs
+near main road
+jalandhar
+1
+.25 acres
+37 lacs
+near railway road
+jalandhar
+3
+4 acres
+2 crores
+near main road
+phagwara
+3
+3 acres
+1.2 crores
+near railway station
+phagwara
+3
+3 acres
+1 crores
+near main road
+phagwara
+2
+2 acres
+90 lacs
+near by pass road
+phagwara
+2
+1.2 acres
+80 lacs
+near railway station
+phagwara
+2
+1 acres
+70 lacs
+near main road
+phagwara
+1
+.75 acres
+50 lacs
+near by pass road
+phagwara
+1
+.5 acres
+45 lacs
+near main road
+phagwara
+1
+.25 acres
+37 lacs
+near railway road
+phagwara
+3
+4 acres
+2 crores
+near main road
+ludhiana
+3
+3 acres
+1.2 crores
+near railway station
+ludhiana
+3
+3 acres
+1 crores
+near main road
+ludhiana
+2
+2 acres
+90 lacs
+near by pass road
+ludhiana
+2
+1.2 acres
+80 lacs
+near railway station
+ludhiana
+2
+1 acres
+70 lacs
+near main road
+ludhiana
+1
+.75 acres
+50 lacs
+near by pass road
+ludhiana
+1
+.5 acres
+45 lacs
+near main road
+ludhiana
+1
+.25 acres
+37 lacs
+near railway road
+ludhiana
